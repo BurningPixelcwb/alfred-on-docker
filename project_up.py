@@ -1,0 +1,4 @@
+import setup_database
+
+print('PROJETO EM PÉ!')
+print('AEEEEEEE AMIGUINHO! AGORA É SÓ SAIR LANÇANDO NOTA E SABER TUDO QUE TU TA GASTANDO')
